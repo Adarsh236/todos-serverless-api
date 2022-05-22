@@ -1,11 +1,11 @@
 {
-  "name": "todo-rest-api",
+  "name": "todos-serverless-api",
   "version": "1.0.0",
   "description": "",
   "main": "serverless.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Adarsh236/todo-rest-api.git"
+    "url": "https://github.com/Adarsh236/todos-serverless-api.git"
   },
   "scripts": {
     "offline": "serverless offline start",
